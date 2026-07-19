@@ -1,28 +1,76 @@
-# Linux & DevOps Bootcamp
+# 🚀 Linux & DevOps Bootcamp
 
-This repository contains my hands-on learning journey through Linux, Shell Scripting, Docker, Kubernetes, AWS, CI/CD, MLOps, and LLMOps.
+A hands-on learning repository documenting my journey through Linux, Shell Scripting, Docker, Kubernetes, AWS, CI/CD, MLOps, and LLMOps.
 
-## Modules
+---
+
+## 📚 Learning Roadmap
+
+- ✅ Linux Fundamentals
+- ✅ Shell Scripting
+- ⏳ Docker
+- ⏳ Kubernetes
+- ⏳ AWS
+- ⏳ CI/CD
+- ⏳ MLOps
+- ⏳ LLMOps
+
+---
+
+## 📂 Repository Structure
+
+```
+linux-devops-bootcamp/
+│
+├── linux/
+├── shell-scripting/
+├── docker/
+├── kubernetes/
+├── aws/
+├── cicd/
+├── mlops/
+├── llmops/
+└── projects/
+```
+
+---
+
+## 🛠 Technologies
 
 - Linux
-- Shell Scripting
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
-- MLOps
-- LLMOps
+- Bash
+- Git
+- GitHub
+- Docker *(Coming Soon)*
+- Kubernetes *(Coming Soon)*
+- AWS *(Coming Soon)*
 
-## Projects
+---
+
+## 📜 Projects
+
+### Linux
+
+- Linux Commands Practice
+- File Management
+- Permissions
+- Process Management
+
+### Shell Scripting
 
 - System Information Script
-- Backup Script
+- Backup Automation Script
 - Deployment Script
-- Docker Projects (Coming Soon)
-- Kubernetes Projects (Coming Soon)
-- AI/ML Deployment Projects (Coming Soon)
 
-## Author
+---
 
-Dinesh Kumar
+## 🎯 Goal
+
+Build production-ready DevOps and MLOps skills through practical projects.
+
+---
+
+## 👨‍💻 Author
+
+**Dinesh Kumar**
 
